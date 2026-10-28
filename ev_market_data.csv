@@ -1,0 +1,151 @@
+Manufacturer,Model,Category,Battery_Type,Battery_Capacity_kWh,Range_km,Price_USD,Annual_Sales,Customer_Rating,Manufacturing_Country,Year
+Ola Electric,Ola-TWO1,Two-Wheeler,LFP,4.4,118,1000,13934,4.4,India,2022
+Mahindra,Mahindra-BUS2,Bus,LFP,214.1,229,114000,5031,3.4,India,2023
+Ather,Ather-TWO3,Two-Wheeler,NCA,5.1,147,3000,36963,4.6,India,2022
+Tata Motors,Tata-TWO4,Two-Wheeler,NMC,4.4,117,2000,13896,3.5,India,2022
+MG Motor,MG-SUV5,SUV,NMC,92.3,497,69000,16861,4.9,China,2025
+BYD,BYD-TRU6,Truck,LFP,244.3,342,133000,1675,4.5,China,2022
+Ola Electric,Ola-TWO7,Two-Wheeler,NCA,7.9,199,1000,13738,4.0,India,2025
+Ola Electric,Ola-TWO8,Two-Wheeler,LFP,4.8,175,2000,85439,3.5,India,2023
+Kia,Kia-TWO9,Two-Wheeler,LFP,5.3,124,3000,73500,3.7,South Korea,2024
+Tesla,Tesla-SED10,Sedan,NCA,79.2,502,38000,9175,3.7,USA,2024
+Hyundai,Hyundai-TWO11,Two-Wheeler,NMC,7.4,172,2000,19226,3.8,South Korea,2023
+Ather,Ather-TWO12,Two-Wheeler,NMC,6.7,144,3000,52850,3.9,India,2023
+Kia,Kia-BUS13,Bus,LFP,207.1,214,69000,5240,3.6,South Korea,2025
+Mahindra,Mahindra-HAT14,Hatchback,NMC,49.9,419,23000,73012,4.7,India,2022
+Ola Electric,Ola-TWO15,Two-Wheeler,LFP,7.4,186,2000,84512,3.9,India,2024
+Nissan,Nissan-SED16,Sedan,NMC,83.6,584,38000,66112,4.5,Japan,2022
+Ola Electric,Ola-TWO17,Two-Wheeler,NCA,5.5,115,1000,49509,4.5,India,2022
+Mahindra,Mahindra-SUV18,SUV,NMC,64.5,472,54000,31885,3.5,India,2022
+BYD,BYD-TWO19,Two-Wheeler,NMC,3.3,187,3000,16983,3.6,China,2025
+Kia,Kia-SED20,Sedan,LFP,81.2,508,60000,28260,4.8,South Korea,2023
+Ather,Ather-TWO21,Two-Wheeler,NMC,6.4,137,2000,68339,4.1,India,2023
+Hyundai,Hyundai-HAT22,Hatchback,LFP,49.7,358,22000,1442,3.5,South Korea,2022
+Hyundai,Hyundai-HAT23,Hatchback,Sodium-Ion,56.5,318,22000,37000,4.4,South Korea,2023
+Kia,Kia-SED24,Sedan,NCA,81.5,547,45000,32350,4.6,South Korea,2025
+Hyundai,Hyundai-HAT25,Hatchback,LFP,45.8,408,28000,61713,4.7,South Korea,2022
+Ola Electric,Ola-TWO26,Two-Wheeler,Solid-State,3.5,141,3000,44973,4.6,India,2022
+Hyundai,Hyundai-SED27,Sedan,LFP,68.5,508,35000,37009,4.1,South Korea,2022
+BMW,BMW-TRU28,Truck,LFP,247.8,388,61000,864,4.8,Germany,2023
+Tata Motors,Tata-BUS29,Bus,NMC,232.1,251,57000,1448,4.0,India,2025
+Volkswagen,Volkswagen-BUS30,Bus,LFP,304.5,293,150000,4652,4.4,Germany,2025
+Tata Motors,Tata-SED31,Sedan,LFP,84.1,548,53000,71566,3.5,India,2024
+Tesla,Tesla-HAT32,Hatchback,NMC,47.6,435,20000,7955,4.8,USA,2022
+Tata Motors,Tata-HAT33,Hatchback,NMC,51.9,360,27000,16213,4.8,India,2023
+Mahindra,Mahindra-TRU34,Truck,LFP,162.3,399,132000,4382,3.9,India,2024
+Hyundai,Hyundai-TWO35,Two-Wheeler,NCA,4.2,140,1000,88539,4.4,South Korea,2025
+MG Motor,MG-HAT36,Hatchback,LFP,50.5,444,18000,10102,4.2,China,2024
+Tata Motors,Tata-SUV37,SUV,Sodium-Ion,95.2,474,53000,21176,4.1,India,2024
+Mahindra,Mahindra-TWO38,Two-Wheeler,NMC,6.3,160,2000,87451,3.6,India,2023
+Volkswagen,Volkswagen-HAT39,Hatchback,Sodium-Ion,53.6,339,23000,37430,4.3,Germany,2024
+Hyundai,Hyundai-TWO40,Two-Wheeler,NMC,4.3,152,2000,7158,3.5,South Korea,2025
+Volkswagen,Volkswagen-HAT41,Hatchback,LFP,54.3,367,20000,58412,4.2,Germany,2025
+Kia,Kia-HAT42,Hatchback,LFP,58.6,338,16000,48893,4.3,South Korea,2023
+Nissan,Nissan-SED43,Sedan,LFP,65.9,410,58000,47398,3.7,Japan,2023
+Ola Electric,Ola-TWO44,Two-Wheeler,NMC,5.8,142,3000,20757,4.8,India,2023
+Tata Motors,Tata-SED45,Sedan,Sodium-Ion,55.7,588,59000,44040,4.6,India,2025
+Ola Electric,Ola-TWO46,Two-Wheeler,NCA,4.3,190,3000,14668,4.0,India,2022
+BMW,BMW-SED47,Sedan,LFP,82.6,489,39000,30331,3.7,Germany,2023
+Nissan,Nissan-SUV48,SUV,LFP,62.8,451,57000,84580,4.2,Japan,2024
+Tesla,Tesla-HAT49,Hatchback,Sodium-Ion,41.5,448,23000,5514,3.6,USA,2025
+MG Motor,MG-TWO50,Two-Wheeler,NCA,5.2,155,1000,50988,4.7,China,2023
+Volkswagen,Volkswagen-HAT51,Hatchback,NCA,35.0,437,21000,48239,4.0,Germany,2024
+Mahindra,Mahindra-SUV52,SUV,NMC,65.0,456,67000,41038,4.4,India,2024
+Nissan,Nissan-TWO53,Two-Wheeler,LFP,3.6,143,3000,50195,4.4,Japan,2023
+Mahindra,Mahindra-TRU54,Truck,LFP,232.2,250,98000,2450,3.7,India,2024
+BMW,BMW-BUS55,Bus,NMC,232.1,260,144000,1490,4.4,Germany,2024
+Kia,Kia-TWO56,Two-Wheeler,NMC,4.7,194,1000,88684,3.9,South Korea,2023
+Tata Motors,Tata-HAT57,Hatchback,LFP,59.6,318,29000,54821,4.7,India,2023
+Ather,Ather-TWO58,Two-Wheeler,NMC,5.0,108,3000,1226,4.7,India,2022
+Nissan,Nissan-SED59,Sedan,LFP,83.7,532,44000,7082,4.2,Japan,2022
+BMW,BMW-SED60,Sedan,NCA,75.0,543,49000,42088,4.8,Germany,2025
+Mahindra,Mahindra-TWO61,Two-Wheeler,Sodium-Ion,5.1,160,2000,21361,4.5,India,2025
+BMW,BMW-SUV62,SUV,NCA,93.6,450,68000,64017,4.3,Germany,2024
+BMW,BMW-HAT63,Hatchback,NCA,40.9,385,25000,71298,3.5,Germany,2023
+Hyundai,Hyundai-BUS64,Bus,NMC,306.0,208,103000,3439,3.9,South Korea,2025
+Nissan,Nissan-HAT65,Hatchback,LFP,45.5,449,15000,75956,4.0,Japan,2022
+MG Motor,MG-SUV66,SUV,NCA,94.1,487,69000,72082,4.6,China,2023
+BMW,BMW-SED67,Sedan,LFP,69.6,499,40000,88170,4.4,Germany,2025
+Ather,Ather-TWO68,Two-Wheeler,NCA,7.6,169,3000,4034,4.8,India,2022
+BYD,BYD-TWO69,Two-Wheeler,NMC,7.3,113,1000,34599,4.0,China,2023
+BMW,BMW-SUV70,SUV,LFP,95.2,451,61000,33565,4.7,Germany,2025
+Tesla,Tesla-TWO71,Two-Wheeler,NMC,8.0,134,1000,85715,3.5,USA,2022
+Tesla,Tesla-SED72,Sedan,LFP,55.6,439,37000,17044,4.1,USA,2022
+Mahindra,Mahindra-SED73,Sedan,NMC,62.7,494,35000,79915,4.3,India,2022
+Tata Motors,Tata-SUV74,SUV,LFP,61.0,459,71000,89281,4.8,India,2025
+Nissan,Nissan-TWO75,Two-Wheeler,LFP,6.0,196,3000,32330,3.6,Japan,2024
+Ola Electric,Ola-TWO76,Two-Wheeler,NCA,7.0,162,1000,46008,4.2,India,2024
+BYD,BYD-TRU77,Truck,NMC,151.9,357,122000,964,4.1,China,2024
+Ola Electric,Ola-TWO78,Two-Wheeler,NCA,5.2,183,3000,85756,3.8,India,2025
+BMW,BMW-BUS79,Bus,NCA,288.9,241,81000,809,3.8,Germany,2025
+Hyundai,Hyundai-BUS80,Bus,NMC,300.2,243,53000,4149,4.7,South Korea,2023
+BMW,BMW-SED81,Sedan,NMC,62.8,471,58000,78639,4.5,Germany,2024
+Kia,Kia-HAT82,Hatchback,NMC,39.8,361,28000,64538,4.2,South Korea,2023
+Ather,Ather-TWO83,Two-Wheeler,NMC,5.5,191,1000,12696,3.8,India,2025
+Ather,Ather-TWO84,Two-Wheeler,LFP,5.9,150,3000,70088,3.9,India,2024
+MG Motor,MG-TWO85,Two-Wheeler,NMC,4.5,119,1000,25742,3.9,China,2023
+Hyundai,Hyundai-SED86,Sedan,NCA,63.3,550,54000,69265,4.3,South Korea,2022
+Hyundai,Hyundai-SUV87,SUV,LFP,67.2,383,69000,17091,3.8,South Korea,2022
+Kia,Kia-SUV88,SUV,NMC,65.1,505,41000,2107,4.3,South Korea,2025
+BMW,BMW-BUS89,Bus,LFP,344.8,232,111000,1034,4.6,Germany,2025
+BMW,BMW-HAT90,Hatchback,NMC,52.2,338,19000,74272,4.8,Germany,2022
+Hyundai,Hyundai-HAT91,Hatchback,NMC,45.4,357,27000,59549,4.8,South Korea,2024
+Mahindra,Mahindra-BUS92,Bus,LFP,293.2,278,144000,912,4.8,India,2023
+Ola Electric,Ola-TWO93,Two-Wheeler,LFP,3.4,120,1000,72850,3.5,India,2022
+Nissan,Nissan-BUS94,Bus,NMC,270.5,204,79000,2460,4.5,Japan,2025
+BYD,BYD-TWO95,Two-Wheeler,LFP,4.3,191,3000,77804,4.4,China,2023
+Nissan,Nissan-HAT96,Hatchback,NMC,51.2,368,19000,9859,3.5,Japan,2024
+Mahindra,Mahindra-TWO97,Two-Wheeler,NCA,7.6,146,1000,61933,4.4,India,2025
+Volkswagen,Volkswagen-TRU98,Truck,NMC,215.7,260,115000,2740,4.3,Germany,2022
+BYD,BYD-SED99,Sedan,Solid-State,80.1,547,48000,3219,4.9,China,2024
+Mahindra,Mahindra-HAT100,Hatchback,NCA,39.4,432,29000,36958,3.7,India,2025
+Ola Electric,Ola-TWO101,Two-Wheeler,Solid-State,5.4,142,2000,42581,4.4,India,2023
+MG Motor,MG-BUS102,Bus,NMC,243.2,251,147000,4606,3.5,China,2022
+MG Motor,MG-SUV103,SUV,LFP,98.8,483,67000,650,4.4,China,2025
+Nissan,Nissan-HAT104,Hatchback,LFP,44.0,427,29000,7264,3.7,Japan,2023
+Volkswagen,Volkswagen-BUS105,Bus,Sodium-Ion,272.7,203,130000,5087,4.6,Germany,2023
+Volkswagen,Volkswagen-TRU106,Truck,LFP,211.2,307,74000,3880,4.8,Germany,2023
+BMW,BMW-TWO107,Two-Wheeler,LFP,6.5,143,2000,62394,3.8,Germany,2023
+Nissan,Nissan-SED108,Sedan,Sodium-Ion,70.2,434,57000,9650,3.8,Japan,2025
+MG Motor,MG-TRU109,Truck,LFP,150.4,326,135000,4850,4.9,China,2025
+Tata Motors,Tata-BUS110,Bus,NMC,251.8,270,147000,4551,4.0,India,2024
+Hyundai,Hyundai-TWO111,Two-Wheeler,LFP,4.9,199,2000,6220,3.9,South Korea,2025
+Ather,Ather-TWO112,Two-Wheeler,NMC,6.3,195,3000,20436,4.1,India,2022
+Tata Motors,Tata-TRU113,Truck,Solid-State,199.8,275,116000,916,4.2,India,2025
+Tesla,Tesla-TWO114,Two-Wheeler,LFP,7.4,109,1000,62037,4.6,USA,2024
+MG Motor,MG-TRU115,Truck,NMC,247.5,334,146000,4471,4.0,China,2024
+Ola Electric,Ola-TWO116,Two-Wheeler,Sodium-Ion,5.4,159,1000,81431,3.5,India,2024
+Hyundai,Hyundai-TWO117,Two-Wheeler,LFP,7.9,187,3000,13673,4.1,South Korea,2024
+Tesla,Tesla-HAT118,Hatchback,LFP,36.4,391,26000,56950,3.6,USA,2025
+Mahindra,Mahindra-TWO119,Two-Wheeler,NCA,3.8,100,3000,50640,4.3,India,2023
+BMW,BMW-TRU120,Truck,LFP,219.2,315,118000,2191,4.4,Germany,2025
+Volkswagen,Volkswagen-TWO121,Two-Wheeler,NMC,3.4,134,3000,39710,4.4,Germany,2025
+Ather,Ather-TWO122,Two-Wheeler,NMC,4.5,139,2000,14479,3.8,India,2024
+Mahindra,Mahindra-SUV123,SUV,Solid-State,71.8,548,60000,36476,3.4,India,2022
+Mahindra,Mahindra-TWO124,Two-Wheeler,NMC,7.5,126,1000,80069,4.6,India,2023
+Ola Electric,Ola-TWO125,Two-Wheeler,NMC,6.4,182,3000,89741,4.7,India,2022
+Ola Electric,Ola-TWO126,Two-Wheeler,LFP,6.9,94,3000,48323,4.5,India,2022
+Volkswagen,Volkswagen-SUV127,SUV,NCA,67.0,413,69000,48453,4.2,Germany,2024
+Tata Motors,Tata-SUV128,SUV,Sodium-Ion,97.8,455,56000,15595,4.1,India,2022
+Tata Motors,Tata-SED129,Sedan,Sodium-Ion,76.7,501,60000,73548,3.9,India,2025
+Tesla,Tesla-SUV130,SUV,NMC,78.2,447,72000,50441,4.6,USA,2024
+BYD,BYD-TWO131,Two-Wheeler,LFP,3.1,161,2000,80464,3.7,China,2022
+Ola Electric,Ola-TWO132,Two-Wheeler,Sodium-Ion,4.5,142,1000,18820,3.5,India,2022
+Volkswagen,Volkswagen-BUS133,Bus,LFP,235.2,268,67000,3283,4.1,Germany,2025
+Mahindra,Mahindra-TWO134,Two-Wheeler,NCA,7.4,173,1000,64639,4.3,India,2024
+Tesla,Tesla-TWO135,Two-Wheeler,NMC,5.2,120,2000,13522,4.9,USA,2024
+Kia,Kia-TWO136,Two-Wheeler,NMC,5.0,114,1000,60100,3.5,South Korea,2023
+Ola Electric,Ola-TWO137,Two-Wheeler,NMC,3.1,190,2000,32425,4.9,India,2023
+BYD,BYD-TRU138,Truck,LFP,182.4,309,102000,1308,4.6,China,2022
+Volkswagen,Volkswagen-SED139,Sedan,Solid-State,71.2,444,33000,87146,4.7,Germany,2023
+Tesla,Tesla-SUV140,SUV,NCA,69.5,462,36000,23338,3.8,USA,2023
+Ather,Ather-TWO141,Two-Wheeler,NMC,6.7,150,2000,47953,4.2,India,2022
+BMW,BMW-TRU142,Truck,LFP,242.3,383,98000,3852,4.4,Germany,2022
+Tesla,Tesla-BUS143,Bus,NCA,263.9,213,112000,5935,4.8,USA,2022
+BYD,BYD-SUV144,SUV,NMC,62.6,450,74000,83478,4.3,China,2024
+Nissan,Nissan-TRU145,Truck,NMC,218.1,360,72000,5848,3.6,Japan,2023
+Nissan,Nissan-BUS146,Bus,Sodium-Ion,262.1,258,101000,3507,4.5,Japan,2024
+Nissan,Nissan-SUV147,SUV,NMC,75.0,419,65000,9299,3.5,Japan,2022
+BYD,BYD-BUS148,Bus,LFP,310.8,216,121000,591,4.3,China,2024
+Ola Electric,Ola-TWO149,Two-Wheeler,NMC,7.4,186,2000,7243,4.9,India,2024
+MG Motor,MG-HAT150,Hatchback,NMC,40.3,423,22000,14684,3.9,China,2024
